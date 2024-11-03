@@ -1,0 +1,82 @@
+{
+  "wines_by": [
+    {
+      "tag": "type",
+      "name": "Type"
+    },
+    {
+      "tag": "style",
+      "name": "Style"
+    },
+    {
+      "tag": "country",
+      "name": "Countries"
+    },
+    {
+      "tag": "grape",
+      "name": "Grape"
+    }
+  ],
+  "carousel": [
+    {
+      "name": "Chateau Margaux 2015",
+      "image": "https://s3-alpha-sig.figma.com/img/e27c/5afd/28acb40a547934847b36b48af6477845?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcCO~Bf3WI0NNax-HcbjrCdjC2sOv~t0TlcKHyLSY6W1lpVhSpVEcVHSzQZMMPrX6QA2y9kftxm7iKrdOMENmdV-cn0Nzpav-zL-N7b6RMmY5kKjD10yShAxsbp0MInxFOFHjrhUXgE-ze7rL8SXSsYnNq5eiLC5BQro36EODYc7PnsFMgq51XeyKzem4xVuNqQbO~1cWBElaKsYd31yZeQskfxToq82wIocvPfPvtxcBcyhlRK-myc2CpwzjAbcsupITTlGs-H6wzjNbwp8R4dD5k83-nbl7QTi811hrqkvd9my~9unazUQLE5FA67Upv5mA2StTweUdx9PB7zceA__",
+      "critic_score": 97,
+      "bottle_size": "750 ml",
+      "price_usd": 750,
+      "type": "red",
+      "from": {
+        "country": "France 🇫🇷",
+        "city": "Bordeaux"
+      }
+    },
+    {
+      "name": "Cloudy Bay Sauvignon Blanc 2020",
+      "image": "https://s3-alpha-sig.figma.com/img/e27c/5afd/28acb40a547934847b36b48af6477845?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcCO~Bf3WI0NNax-HcbjrCdjC2sOv~t0TlcKHyLSY6W1lpVhSpVEcVHSzQZMMPrX6QA2y9kftxm7iKrdOMENmdV-cn0Nzpav-zL-N7b6RMmY5kKjD10yShAxsbp0MInxFOFHjrhUXgE-ze7rL8SXSsYnNq5eiLC5BQro36EODYc7PnsFMgq51XeyKzem4xVuNqQbO~1cWBElaKsYd31yZeQskfxToq82wIocvPfPvtxcBcyhlRK-myc2CpwzjAbcsupITTlGs-H6wzjNbwp8R4dD5k83-nbl7QTi811hrqkvd9my~9unazUQLE5FA67Upv5mA2StTweUdx9PB7zceA__",
+      "critic_score": 92,
+      "bottle_size": "750 ml",
+      "price_usd": 30,
+      "type": "white",
+      "from": {
+        "country": "New Zealand 🇳🇿",
+        "city": "Marlborough"
+      }
+    },
+    {
+      "name": "Moet & Chandon Imperial Brut",
+      "image": "https://s3-alpha-sig.figma.com/img/e27c/5afd/28acb40a547934847b36b48af6477845?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcCO~Bf3WI0NNax-HcbjrCdjC2sOv~t0TlcKHyLSY6W1lpVhSpVEcVHSzQZMMPrX6QA2y9kftxm7iKrdOMENmdV-cn0Nzpav-zL-N7b6RMmY5kKjD10yShAxsbp0MInxFOFHjrhUXgE-ze7rL8SXSsYnNq5eiLC5BQro36EODYc7PnsFMgq51XeyKzem4xVuNqQbO~1cWBElaKsYd31yZeQskfxToq82wIocvPfPvtxcBcyhlRK-myc2CpwzjAbcsupITTlGs-H6wzjNbwp8R4dD5k83-nbl7QTi811hrqkvd9my~9unazUQLE5FA67Upv5mA2StTweUdx9PB7zceA__",
+      "critic_score": 89,
+      "bottle_size": "750 ml",
+      "price_usd": 50,
+      "type": "sparkling",
+      "from": {
+        "country": "France 🇫🇷",
+        "city": "Champagne"
+      }
+    },
+    {
+      "name": "Penfolds Grange 2016",
+      "image": "https://s3-alpha-sig.figma.com/img/e27c/5afd/28acb40a547934847b36b48af6477845?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcCO~Bf3WI0NNax-HcbjrCdjC2sOv~t0TlcKHyLSY6W1lpVhSpVEcVHSzQZMMPrX6QA2y9kftxm7iKrdOMENmdV-cn0Nzpav-zL-N7b6RMmY5kKjD10yShAxsbp0MInxFOFHjrhUXgE-ze7rL8SXSsYnNq5eiLC5BQro36EODYc7PnsFMgq51XeyKzem4xVuNqQbO~1cWBElaKsYd31yZeQskfxToq82wIocvPfPvtxcBcyhlRK-myc2CpwzjAbcsupITTlGs-H6wzjNbwp8R4dD5k83-nbl7QTi811hrqkvd9my~9unazUQLE5FA67Upv5mA2StTweUdx9PB7zceA__",
+      "critic_score": 98,
+      "bottle_size": "750 ml",
+      "price_usd": 850,
+      "type": "red",
+      "from": {
+        "country": "Australia 🇦🇺",
+        "city": "Barossa Valley"
+      }
+    },
+    {
+      "name": "Gavi di Gavi La Scolca 2019",
+      "image": "https://s3-alpha-sig.figma.com/img/e27c/5afd/28acb40a547934847b36b48af6477845?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcCO~Bf3WI0NNax-HcbjrCdjC2sOv~t0TlcKHyLSY6W1lpVhSpVEcVHSzQZMMPrX6QA2y9kftxm7iKrdOMENmdV-cn0Nzpav-zL-N7b6RMmY5kKjD10yShAxsbp0MInxFOFHjrhUXgE-ze7rL8SXSsYnNq5eiLC5BQro36EODYc7PnsFMgq51XeyKzem4xVuNqQbO~1cWBElaKsYd31yZeQskfxToq82wIocvPfPvtxcBcyhlRK-myc2CpwzjAbcsupITTlGs-H6wzjNbwp8R4dD5k83-nbl7QTi811hrqkvd9my~9unazUQLE5FA67Upv5mA2StTweUdx9PB7zceA__",
+      "critic_score": 90,
+      "bottle_size": "750 ml",
+      "price_usd": 40,
+      "type": "white",
+      "from": {
+        "country": "Italy 🇮🇹",
+        "city": "Piedmont"
+      }
+    }
+  ]
+}
