@@ -1,5 +1,5 @@
-import 'wine.dart';
-import 'wine_type.dart';
+import '../../Domain/models/wine.dart';
+import '../../Domain/models/wine_type.dart';
 
 class WineResponse {
   final List<WineType> winesBy;

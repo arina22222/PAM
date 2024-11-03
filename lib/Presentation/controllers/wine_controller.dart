@@ -1,6 +1,6 @@
 import 'package:get/get.dart';
-import '../models/wine_response.dart';
-import '../services/api_service.dart';
+import '../../Data/models/wine_response.dart';
+import '../../Data/services/api_service.dart';
 
 class WineController extends GetxController {
   var isLoading = true.obs;
